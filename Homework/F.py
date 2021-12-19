@@ -1,0 +1,7 @@
+s = int(input())
+print('In meters:')
+print(s/100)
+print('In kilometers:')
+print(s/100000)
+print('In miles:')
+print(s*5.4/1000000)

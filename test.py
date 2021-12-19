@@ -1,0 +1,5 @@
+print("Enter 2 numbers")
+a, b = map(int, input().split())
+print(a + b, "- sum")
+print(b - a, "- difference")
+print(a * b, "- product")
